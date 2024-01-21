@@ -19,9 +19,9 @@ const contactConfig = {
     YOUR_EMAIL: "twinklebytes@google.com",
     // creat an emailjs.com account 
     // check out this tutorial https://www.emailjs.com/docs/examples/reactjs/
-    YOUR_SERVICE_ID: "service_id",
-    YOUR_TEMPLATE_ID: "template_id",
-    YOUR_USER_ID: "user_id",
+    YOUR_SERVICE_ID: "service_4yjiias",
+    YOUR_TEMPLATE_ID: "template_uo619hi",
+    YOUR_PUBLIC_KEY: "TXoE_oK9v-nxduj2d",
 };
 
 const socialprofils = {
